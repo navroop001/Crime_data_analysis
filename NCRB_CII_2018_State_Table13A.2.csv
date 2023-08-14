@@ -1,0 +1,133 @@
+S. No. (Col.1),Category (Col.2),YEAR,Entity,Cases of Crimes Committed against - Foreign Tourists (Col.4),Cases of Crimes Committed against - Other Foreigners (Col.5),Cases of Crimes Committed against - Total Foreigners (Col.6=Col.4 + Col.5)
+1,A. IPC,2018,Murder,5,8,13
+2,A. IPC,2018,Culpable Homicide not amounting to Murder,2,1,3
+3,A. IPC,2018,Attempt to Commit Murder/Culpable Homicide,1,6,7
+4,A. IPC,2018,Simple Hurt,2,12,14
+5,A. IPC,2018,Grievous Hurt,4,2,6
+6,A. IPC,2018,Assault on Women with Intent to Outrage her Modesty,28,3,31
+7,A. IPC,2018,Kidnapping and Abduction,5,4,9
+8,A. IPC,2018,Human Trafficking,2,0,2
+9,A. IPC,2018,Rape,24,8,32
+10,A. IPC,2018,Theft,199,35,234
+11,A. IPC,2018,Extortion,0,1,1
+12,A. IPC,2018,Robbery,18,3,21
+13,A. IPC,2018,Dacoity,0,1,1
+14,A. IPC,2018,Cheating,12,7,19
+15,A. IPC,2018,Forgery,11,0,11
+16,A. IPC,2018,Insult to the Modesty of Women,1,0,1
+17,A. IPC,2018,Other IPC Crimes,24,26,50
+Total,A. IPC,2018,Total (A),338,117,455
+18,B. SLL,2018,Immoral Traffic (Prevention) Act,6,1,7
+19,B. SLL,2018,Other SLL Crimes,2,28,30
+Total,B. SLL,2018,Total (B),8,29,37
+Grand Total,Total (A+B),2018,Total (A+B),346,146,492
+,A. IPC,2019,,,,
+,A. IPC,2019,,,,
+,A. IPC,2019,Attempt to Commit Murder/Culpable Homicide,5,4,9
+,A. IPC,2019,Simple Hurt,5,9,14
+,A. IPC,2019,Grievous Hurt,1,1,2
+,A. IPC,2019,Assault on Women with Intent to Outrage her Modesty,17,9,26
+,A. IPC,2019,Kidnapping and Abduction,3,2,5
+,A. IPC,2019,Human Trafficking,6,5,11
+,A. IPC,2019,Rape,8,4,12
+,A. IPC,2019,Theft,115,27,142
+,A. IPC,2019,Extortion,1,0,1
+,A. IPC,2019,Robbery,10,5,15
+,A. IPC,2019,Dacoity,2,1,3
+,A. IPC,2019,Cheating,28,13,41
+,A. IPC,2019,Forgery,5,1,6
+,A. IPC,2019,Insult to the Modesty of Women,1,0,1
+,A. IPC,2019,Other IPC Crimes,40,14,54
+,A. IPC,2019,Total (A),257,99,356
+,B. SLL,2019,Immoral Traffic (Prevention) Act,2,13,15
+,B. SLL,2019,Other SLL Crimes,11,27,38
+,B. SLL,2019,Total (B),13,40,53
+,A. IPC,2020,Murder,3,4,7
+,A. IPC,2020,Culpable Homicide not amounting to Murder,0,1,1
+,A. IPC,2020,Attempt to Commit Murder/Culpable Homicide,6,0,6
+,A. IPC,2020,Simple Hurt,4,11,15
+,A. IPC,2020,Grievous Hurt,0,0,0
+,A. IPC,2020,Assault on Women with Intent to Outrage her Modesty,5,0,5
+,A. IPC,2020,Kidnapping and Abduction,2,5,7
+,A. IPC,2020,Human Trafficking,10,3,13
+,A. IPC,2020,Rape,14,2,16
+,A. IPC,2020,Theft,36,16,52
+,A. IPC,2020,Extortion,0,0,0
+,A. IPC,2020,Robbery,2,2,4
+,A. IPC,2020,Dacoity,0,0,0
+,A. IPC,2020,Cheating,7,7,14
+,A. IPC,2020,Forgery,1,0,1
+,A. IPC,2020,Insult to the Modesty of Women,0,0,0
+,A. IPC,2020,Other IPC Crimes,9,9,18
+,A. IPC,2020,Total (A),99,60,159
+,B. SLL,2020,Immoral Traffic (Prevention) Act,4,2,6
+,B. SLL,2020,Other SLL Crimes,16,10,26
+,B. SLL,2020,Total (B),20,12,32
+,B. SLL,2020,Total (A+B),119,72,191
+,A. IPC,2021,Murder,5,4,9
+,A. IPC,2021,Culpable Homicide not amounting to Murder,0,0,0
+,A. IPC,2021,Attempt to Commit Murder/Culpable Homicide,2,1,3
+,A. IPC,2021,Simple Hurt,5,3,8
+,A. IPC,2021,Grievous Hurt,0,1,1
+,A. IPC,2021,Assault on Women with Intent to Outrage her Modesty,7,8,15
+,A. IPC,2021,Kidnapping and Abduction,0,3,3
+,A. IPC,2021,Human Trafficking,2,6,8
+,A. IPC,2021,Rape,5,9,14
+,A. IPC,2021,Theft,19,4,23
+,A. IPC,2021,Extortion,0,0,0
+,A. IPC,2021,Robbery,5,2,7
+,A. IPC,2021,Dacoity,1,1,2
+,A. IPC,2021,Cheating,3,11,14
+,A. IPC,2021,Forgery,0,0,0
+,A. IPC,2021,Insult to the Modesty of Women,0,0,0
+,A. IPC,2021,Other IPC Crimes,9,5,14
+,A. IPC,2021,Total IPC,63,58,121
+,B. SLL,2021,Immoral Traffic (Prevention) Act,3,10,13
+,B. SLL,2021,Other SLL Crimes,5,11,16
+,B. SLL,2021,Total SLL,8,21,29
+,B. SLL,2021,Total Crimes against Foreigners,71,79,150
+,A. IPC,2017,Murder,5,8,13
+,A. IPC,2017,Culpable Homicide not amounting to Murder,2,1,3
+,A. IPC,2017,Attempt to Commit Murder/Culpable Homicide,1,6,7
+,A. IPC,2017,Simple Hurt,2,12,14
+,A. IPC,2017,Grievous Hurt,4,2,6
+,A. IPC,2017,Assault on Women with Intent to Outrage her Modesty,28,3,31
+,A. IPC,2017,Kidnapping and Abduction,5,4,9
+,A. IPC,2017,Human Trafficking,2,0,2
+,A. IPC,2017,Rape,24,8,32
+,A. IPC,2017,Theft,199,35,234
+,A. IPC,2017,Extortion,0,1,1
+,A. IPC,2017,Robbery,18,3,21
+,A. IPC,2017,Dacoity,0,1,1
+,A. IPC,2017,Cheating,12,7,19
+,A. IPC,2017,Forgery,11,0,11
+,A. IPC,2017,Insult to the Modesty of Women,1,0,1
+,A. IPC,2017,Other IPC Crimes,24,26,50
+,A. IPC,2017,Total (A),338,117,455
+,B. SLL,2017,Immoral Traffic (Prevention) Act,6,1,7
+,B. SLL,2017,Other SLL Crimes,2,28,30
+,B. SLL,2017,Total (B),8,29,37
+,B. SLL,2017,Total (A+B),346,146,492
+,A. IPC,2016,Murder,6,6,12
+,A. IPC,2016,Culpable Homicide not Amounting to Murder,2,0,2
+,A. IPC,2016,Attempt to Commit Murder,0,1,1
+,A. IPC,2016,Attempt to Commit Culpable Homicide,0,0,0
+,A. IPC,2016,Grievous Hurt,2,0,2
+,A. IPC,2016,"Assault on Women with Intent to Outrage 
+her Modesty",30,8,38
+,A. IPC,2016,Kidnapping & Abduction,3,0,3
+,A. IPC,2016,Human Trafficking,1,1,2
+,A. IPC,2016,Rape,14,5,19
+,A. IPC,2016,Theft,104,38,142
+,A. IPC,2016,Extortion,0,1,1
+,A. IPC,2016,Robbery,16,3,19
+,A. IPC,2016,Dacoity,2,0,2
+,A. IPC,2016,Cheating,7,1,8
+,A. IPC,2016,Forgery,3,0,3
+,A. IPC,2016,Insult to the Modesty of Women,1,1,2
+,A. IPC,2016,Other IPC *,83,27,110
+,A. IPC,2016,Total (A),274,92,366
+,B. SLL,2016,"Immoral Traffic (Prevention) Act, 1956",2,0,2
+,B. SLL,2016,Other SLL,8,6,14
+,B. SLL,2016,Total (B),10,6,16
+,B. SLL,2016,Total (A+B),284,98,382
